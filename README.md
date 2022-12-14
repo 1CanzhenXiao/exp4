@@ -5,7 +5,9 @@
 
 #### 文件结构
 resources文件夹存放录制的音频文件和风扇图片
-venv为python的初始化和依赖文件
+
+idea.文件夹为python的初始化和依赖文件
+
 main.py是程序源代码
 
 #### 安装教程
